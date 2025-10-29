@@ -27,5 +27,7 @@ Built to explore **computer vision, automation, and secure email integration** â
 | **EmailMessage API** | MIME-compliant message creation |
 
 ---
-
+## Files
+- main.py is the main backend logic
+- emailing.py is the function python file responsible for sending out the alert
 
