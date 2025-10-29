@@ -1,1 +1,1 @@
-def send_email_func(message):
+def send_email_func(message,image ):
